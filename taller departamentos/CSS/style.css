@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    flex-direction: column;
+    margin: 8px 200px;
+    
+}
+
+body img{
+    height: auto;
+    width: 50%;
+}
+
+button{
+    height: auto;
+    width: 60px;
+}
